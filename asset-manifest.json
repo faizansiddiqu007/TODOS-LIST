@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/faizansiddiqu007/todos-list/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/faizansiddiqu007/todos-list/static/js/main.65cf249a.chunk.js",
-    "main.js.map": "/faizansiddiqu007/todos-list/static/js/main.65cf249a.chunk.js.map",
-    "runtime-main.js": "/faizansiddiqu007/todos-list/static/js/runtime-main.e76ec8db.js",
-    "runtime-main.js.map": "/faizansiddiqu007/todos-list/static/js/runtime-main.e76ec8db.js.map",
-    "static/js/2.dead7bc0.chunk.js": "/faizansiddiqu007/todos-list/static/js/2.dead7bc0.chunk.js",
-    "static/js/2.dead7bc0.chunk.js.map": "/faizansiddiqu007/todos-list/static/js/2.dead7bc0.chunk.js.map",
-    "static/js/3.263a9caf.chunk.js": "/faizansiddiqu007/todos-list/static/js/3.263a9caf.chunk.js",
-    "static/js/3.263a9caf.chunk.js.map": "/faizansiddiqu007/todos-list/static/js/3.263a9caf.chunk.js.map",
-    "index.html": "/faizansiddiqu007/todos-list/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/faizansiddiqu007/todos-list/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.dead7bc0.chunk.js.LICENSE.txt": "/faizansiddiqu007/todos-list/static/js/2.dead7bc0.chunk.js.LICENSE.txt"
+    "main.css": "/todos-list/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/todos-list/static/js/main.65cf249a.chunk.js",
+    "main.js.map": "/todos-list/static/js/main.65cf249a.chunk.js.map",
+    "runtime-main.js": "/todos-list/static/js/runtime-main.cbd8374f.js",
+    "runtime-main.js.map": "/todos-list/static/js/runtime-main.cbd8374f.js.map",
+    "static/js/2.dead7bc0.chunk.js": "/todos-list/static/js/2.dead7bc0.chunk.js",
+    "static/js/2.dead7bc0.chunk.js.map": "/todos-list/static/js/2.dead7bc0.chunk.js.map",
+    "static/js/3.263a9caf.chunk.js": "/todos-list/static/js/3.263a9caf.chunk.js",
+    "static/js/3.263a9caf.chunk.js.map": "/todos-list/static/js/3.263a9caf.chunk.js.map",
+    "index.html": "/todos-list/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/todos-list/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dead7bc0.chunk.js.LICENSE.txt": "/todos-list/static/js/2.dead7bc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e76ec8db.js",
+    "static/js/runtime-main.cbd8374f.js",
     "static/js/2.dead7bc0.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.65cf249a.chunk.js"
